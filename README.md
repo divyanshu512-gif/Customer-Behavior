@@ -9,3 +9,7 @@
 
 ---
 ## Hypothesis
+- The consumer's purchasing power has been increased in resent years
+
+---
+## 
