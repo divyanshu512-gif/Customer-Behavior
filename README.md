@@ -11,7 +11,6 @@
   
  ### **Features**:
  - **Customer Demographics**:
-   
    Age, Gender, Location, Subscription Status
  
  - **Purchase details**:
