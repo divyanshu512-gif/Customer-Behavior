@@ -17,5 +17,9 @@
    
    Item Purchased, Category, Purchase Amount, Season, Size, Color
  - **Shopping Behavior**
-   
+
+   Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type
+ - **Missing Data**
+
+   37 values in the Review Rating column
 
