@@ -10,6 +10,9 @@
 - **Columns**: 18
   
  ### **Features**:
- - **Customers Demograpics**:
+ - **Customer Demographics**:
+   Age, Gender, Location, Subscription Status
+ - **Purchase details**:
+   Item Purchased, Category, Purchase Amount, Season, Size, Color
    
 
