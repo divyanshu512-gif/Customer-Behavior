@@ -6,5 +6,6 @@
 ---
 
 ## Data Summary
-
+- Rows: 3900
+- Columns: 18
 
