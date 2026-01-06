@@ -16,5 +16,6 @@
  - **Purchase details**:
    
    Item Purchased, Category, Purchase Amount, Season, Size, Color
+ - **Shopping Behavior**
    
 
