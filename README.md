@@ -6,6 +6,7 @@
 ---
 
 ## Data Summary
-- **Rows**: 3900
+- **Rows**: 3,900
 - **Columns**: 18
+ ### **Features**
 
