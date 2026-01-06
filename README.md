@@ -8,5 +8,8 @@
 ## Data Summary
 - **Rows**: 3,900
 - **Columns**: 18
- ### **Features**
+  
+ ### **Features**:
+ - **Customers Demograpics**:
+   
 
