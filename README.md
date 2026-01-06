@@ -11,8 +11,11 @@
   
  ### **Features**:
  - **Customer Demographics**:
+   
  Age, Gender, Location, Subscription Status
+ 
  - **Purchase details**:
+   
  Item Purchased, Category, Purchase Amount, Season, Size, Color
    
 
