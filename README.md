@@ -27,3 +27,5 @@
 
 ## **Exploratory Data Analysis using Python**
 We began with data preparation and cleaning with python:
+
+ - **Data Loadind**: Imported dataset using `pandas`. 
