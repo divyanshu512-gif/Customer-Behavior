@@ -29,4 +29,4 @@
 We began with data preparation and cleaning with python:
 
  - **Data Loadind**: Imported dataset using `pandas`.
- - **Initail Exploration**: Used `df.info()` to check structure `df.info()` for summary statistics.
+ - **Initail Exploration**: Used `df.info()` to check structure `df.describe()` for summary statistics.
