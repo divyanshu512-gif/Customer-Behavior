@@ -30,3 +30,6 @@ We began with data preparation and cleaning with python:
 
  - **Data Loadind**: Imported dataset using `pandas`.
  - **Initail Exploration**: Used `df.info()` to check structure `df.describe()` for summary statistics.
+ - **Missing Data Handling**: Checked for null values and imputed values in the `Review Rating` using the median rating of each product category.
+ - **Column Standardization**: Renamed columns to snake case for better readability and documentation   
+
