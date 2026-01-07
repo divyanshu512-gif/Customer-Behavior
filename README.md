@@ -34,5 +34,6 @@ We began with data preparation and cleaning with python:
  - **Column Standardization**: Renamed columns to snake case for better readability and documentation
  - **Feature Engineering**:
    - Created `age_group` column by binning customer ages.
-   - Created `purchase_frequency_days` column from purchase data.   
+   - Created `purchase_frequency_days` column from purchase data.
+ - **Data Consistency Check**: Verified if `discount_applied` and `promo_code_used` were redundant; dropped `promo_code_used`.   
 
