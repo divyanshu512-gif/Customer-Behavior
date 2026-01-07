@@ -16,10 +16,10 @@
  - **Purchase details**:
    
    Item Purchased, Category, Purchase Amount, Season, Size, Color
- - **Shopping Behavior**
+ - **Shopping Behavior**:
 
    Discount Applied, Promo Code Used, Previous Purchases, Frequency of Purchases, Review Rating, Shipping Type
- - **Missing Data**
+ - **Missing Data**:
 
    37 values in the Review Rating column
 
@@ -28,4 +28,5 @@
 ## **Exploratory Data Analysis using Python**
 We began with data preparation and cleaning with python:
 
- - **Data Loadind**: Imported dataset using `pandas`. 
+ - **Data Loadind**: Imported dataset using `pandas`.
+ - **Initail Exploration**: Used `df.info()` to check structure `df.info()` for summary statistics.
