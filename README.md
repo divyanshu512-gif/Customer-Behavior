@@ -33,5 +33,6 @@ We began with data preparation and cleaning with python:
  - **Missing Data Handling**: Checked for null values and imputed values in the `Review Rating` using the median rating of each product category.
  - **Column Standardization**: Renamed columns to snake case for better readability and documentation
  - **Feature Engineering**:
-   - Created `age_group` column by binning customer ages.   
+   - Created `age_group` column by binning customer ages.
+   - Created `purchase_frequency_days` column from purchase data.   
 
