@@ -57,7 +57,7 @@ We performed structured analysis in PostgreSQL to answer key business questions:
    
 3. **Top 5 Products By Rating**: Found products with the highest average review ratings.
 
-4. **Shipping Type Comparison**: 
+4. **Shipping Type Comparison**: Compared average purchase amounts between standard and express shipping.
 
 5. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
 
