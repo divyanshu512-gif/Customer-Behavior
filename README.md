@@ -57,8 +57,12 @@ We performed structured analysis in PostgreSQL to answer key business questions:
    
 3. **Top 5 Products By Rating**: Found products with the highest average review ratings.
 
-4. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
+4. **Shipping Type Comparison**: 
 
-5. **Discount Dependent Products**: Identified 5 Product with the highest percentage of discount purchases.
+5. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
 
-6. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history. 
+6. **Discount Dependent Products**: Identified 5 Product with the highest percentage of discount purchases.
+
+7. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history.
+
+8.  
