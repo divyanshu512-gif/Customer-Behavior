@@ -67,4 +67,4 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 8. **Top 3 Products Per Category**: List the most purchased products within each category.
 
-9. **Repeat Buyers and Subscription**: checked whether customers with >
+9. **Repeat Buyers and Subscription**: checked whether customers with > 5
