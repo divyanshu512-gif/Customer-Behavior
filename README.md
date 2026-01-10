@@ -66,3 +66,5 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 7. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history.
 
 8. **Top 3 Products Per Category**: List the most purchased products within each category.
+
+9. **repeat**
