@@ -70,3 +70,7 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 9. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
 
 10. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
+
+---
+
+## Power BI Dashboard
