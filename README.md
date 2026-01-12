@@ -75,3 +75,7 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 ## Power BI Dashboard
 Finally, built an interactive dashboard in **Power BI** to present insights visually.
+
+---
+
+## Business
