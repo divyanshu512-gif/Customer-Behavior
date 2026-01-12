@@ -74,3 +74,4 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 ---
 
 ## Power BI Dashboard
+Finally, 
