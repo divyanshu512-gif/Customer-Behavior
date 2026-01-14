@@ -80,4 +80,4 @@ Finally, built an interactive dashboard in **Power BI** to present insights visu
 
 ## Business Recommendations
 
-- **Boost Subscriptions**: Promote exclusive benefits for
+- **Boost Subscriptions**: Promote exclusive benefits for subscription
