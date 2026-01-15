@@ -82,4 +82,4 @@ Finally, built an interactive dashboard in **Power BI** to present insights visu
 
 - **Boost Subscriptions**: Promote exclusive benefits for subscribers.
 
-- **Customer Loyalty Programs**: Reward repeat buyers to move them
+- **Customer Loyalty Programs**: Reward repeat buyers to move them into
