@@ -84,4 +84,4 @@ Finally, built an interactive dashboard in **Power BI** to present insights visu
 
 - **Customer Loyalty Programs**: Reward repeat buyers to move them into the `Loyal` segment.
 
-- **Review Discount Policy**: 
+- **Review Discount Policy**: Balance 
