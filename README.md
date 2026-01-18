@@ -87,3 +87,5 @@ Finally, built an interactive dashboard in **Power BI** to present insights visu
 - **Review Discount Policy**: Balance sales boosts with marginal control.
 
 - **Product Positioning**: Highlight top-rated and best-selling products in campaigns.
+
+- **Target**
