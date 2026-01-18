@@ -88,4 +88,4 @@ Finally, built an interactive dashboard in **Power BI** to present insights visu
 
 - **Product Positioning**: Highlight top-rated and best-selling products in campaigns.
 
-- **Targeted Marketing**
+- **Targeted Marketing**:
