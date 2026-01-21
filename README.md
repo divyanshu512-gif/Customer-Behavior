@@ -69,6 +69,8 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 8. **Top 3 Products Per Category**: List the most purchased products within each category.
 
+   ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/1a830dc2a2fc6ecde132c993a4e68638f66adbbb/Images/Screenshot%202026-01-21%20115448.png)
+   
 9. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
 
    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
