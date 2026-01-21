@@ -31,7 +31,8 @@ We began with data preparation and cleaning with python:
  - **Data Loadind**: Imported dataset using `pandas`.
    
  - **Initail Exploration**: Used `df.info()` to check structure `df.describe()` for summary statistics.
-![info](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f7d5da0064f6bad5fac3292c6563373187fcec40/Images/merged_horizontal.png)
+
+   ![info](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f7d5da0064f6bad5fac3292c6563373187fcec40/Images/merged_horizontal.png)
    
  - **Missing Data Handling**: Checked for null values and imputed values in the `Review Rating` using the median rating of each product category.
    
@@ -70,11 +71,11 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 9. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
 
-![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
+   ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
 
 10. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
     
-![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
+   ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
 
 
 ---
