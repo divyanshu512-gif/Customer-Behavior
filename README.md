@@ -75,6 +75,7 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 ## Power BI Dashboard
 Finally, built an interactive dashboard in **Power BI** to present insights visually.
+[image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/46f53df70a205c333723cc5a5bb7a9addc8a7265/Images/Dashboard.png)
 
 ---
 
