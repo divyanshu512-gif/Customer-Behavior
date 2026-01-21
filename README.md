@@ -31,7 +31,7 @@ We began with data preparation and cleaning with python:
  - **Data Loadind**: Imported dataset using `pandas`.
    
  - **Initail Exploration**: Used `df.info()` to check structure `df.describe()` for summary statistics.
-[info](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f7d5da0064f6bad5fac3292c6563373187fcec40/Images/merged_horizontal.png)
+![info](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f7d5da0064f6bad5fac3292c6563373187fcec40/Images/merged_horizontal.png)
    
  - **Missing Data Handling**: Checked for null values and imputed values in the `Review Rating` using the median rating of each product category.
    
