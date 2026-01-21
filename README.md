@@ -70,6 +70,8 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 9. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
 
+![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
+
 10. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
     
 ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
