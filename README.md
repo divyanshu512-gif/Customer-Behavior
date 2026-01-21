@@ -75,7 +75,7 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 10. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
     
-   ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
+    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
 
 
 ---
