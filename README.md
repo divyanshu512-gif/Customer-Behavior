@@ -65,6 +65,8 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 6. **Discount Dependent Products**: Identified 5 Product with the highest percentage of discount purchases.
 
+    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/8b44067995db30f25756996d4faa7904818c02d4/Images/Screenshot%202026-01-21%20115324.png)
+  
 7. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history.
 
     ![Images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/04917474192758fec9533bb39ac777f5210a3904/Images/Screenshot%202026-01-21%20115400.png)
