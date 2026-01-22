@@ -71,15 +71,15 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
      ![Images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/04917474192758fec9533bb39ac777f5210a3904/Images/Screenshot%202026-01-21%20115400.png)
    
-9. **Top 3 Products Per Category**: List the most purchased products within each category.
+8. **Top 3 Products Per Category**: List the most purchased products within each category.
 
     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/1a830dc2a2fc6ecde132c993a4e68638f66adbbb/Images/Screenshot%202026-01-21%20115448.png)
    
-10. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
+9. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
 
     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
 
-11. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
+10. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
     
     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
 
