@@ -61,6 +61,8 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 4. **Shipping Type Comparison**: Compared average purchase amounts between standard and express shipping.
 
+   ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/4e2e14868d70b51253df5a2a456f3c57e3a2bcd6/Images/Screenshot%202026-01-21%20115139.png)
+
 5. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
 
    ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/e2599411f714579445de2f161f7ab74b7b946a51/Images/Screenshot%202026-01-21%20115207.png)
