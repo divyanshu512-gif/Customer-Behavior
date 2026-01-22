@@ -63,6 +63,8 @@ We performed structured analysis in PostgreSQL to answer key business questions:
 
 5. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
 
+   ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/e2599411f714579445de2f161f7ab74b7b946a51/Images/Screenshot%202026-01-21%20115207.png)
+
 6. **Discount Dependent Products**: Identified 5 Product with the highest percentage of discount purchases.
 
     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/8b44067995db30f25756996d4faa7904818c02d4/Images/Screenshot%202026-01-21%20115324.png)
