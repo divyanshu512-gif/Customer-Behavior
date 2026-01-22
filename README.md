@@ -69,7 +69,7 @@ We performed structured analysis in PostgreSQL to answer key business questions:
   
 7. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history.
 
-    ![Images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/04917474192758fec9533bb39ac777f5210a3904/Images/Screenshot%202026-01-21%20115400.png)
+     ![Images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/04917474192758fec9533bb39ac777f5210a3904/Images/Screenshot%202026-01-21%20115400.png)
    
 9. **Top 3 Products Per Category**: List the most purchased products within each category.
 
