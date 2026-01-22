@@ -59,33 +59,35 @@ We performed structured analysis in PostgreSQL to answer key business questions:
    
 3. **Top 5 Products By Rating**: Found products with the highest average review ratings.
 
-4. **Shipping Type Comparison**: Compared average purchase amounts between standard and express shipping.
+     ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c7bdb2533cc013cd7ea7407ad3d1a0fb70bba82c/Images/Screenshot%202026-01-21%20115103.png)
 
-   ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/4e2e14868d70b51253df5a2a456f3c57e3a2bcd6/Images/Screenshot%202026-01-21%20115139.png)
+5. **Shipping Type Comparison**: Compared average purchase amounts between standard and express shipping.
 
-5. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
+     ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/4e2e14868d70b51253df5a2a456f3c57e3a2bcd6/Images/Screenshot%202026-01-21%20115139.png)
 
-   ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/e2599411f714579445de2f161f7ab74b7b946a51/Images/Screenshot%202026-01-21%20115207.png)
+6. **Subscribers Vs Non-subscribers**: Compared average spend and total revenue across subscription status.
 
-6. **Discount Dependent Products**: Identified 5 Product with the highest percentage of discount purchases.
+     ![images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/e2599411f714579445de2f161f7ab74b7b946a51/Images/Screenshot%202026-01-21%20115207.png)
 
-    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/8b44067995db30f25756996d4faa7904818c02d4/Images/Screenshot%202026-01-21%20115324.png)
+7. **Discount Dependent Products**: Identified 5 Product with the highest percentage of discount purchases.
+
+     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/8b44067995db30f25756996d4faa7904818c02d4/Images/Screenshot%202026-01-21%20115324.png)
   
-7. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history.
+8. **Customer Segmentation**: Classified customer into `New` , `Returning` and `Loyal` segments based on purchase history.
 
      ![Images](https://github.com/divyanshu512-gif/Customer-Behavior/blob/04917474192758fec9533bb39ac777f5210a3904/Images/Screenshot%202026-01-21%20115400.png)
    
-8. **Top 3 Products Per Category**: List the most purchased products within each category.
+9. **Top 3 Products Per Category**: List the most purchased products within each category.
 
-    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/1a830dc2a2fc6ecde132c993a4e68638f66adbbb/Images/Screenshot%202026-01-21%20115448.png)
+     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/1a830dc2a2fc6ecde132c993a4e68638f66adbbb/Images/Screenshot%202026-01-21%20115448.png)
    
-9. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
+10. **Repeat Buyers and Subscription**: checked whether customers with > 5 purchases are more likely to subscribe.
 
-    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
+     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/f1d714261a95bcfa5e9a2d8fbd826e048d24be78/Images/Screenshot%202026-01-21%20115552.png)
 
-10. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
+11. **Revenue by Age Group**: Calculated total revenue contribution of each age group.
     
-    ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
+     ![image](https://github.com/divyanshu512-gif/Customer-Behavior/blob/c136e19c0276272f322453a2acf472b1471855e6/Images/Screenshot%202026-01-21%20115623.png)
 
 
 ---
